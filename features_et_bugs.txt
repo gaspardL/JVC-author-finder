@@ -1,0 +1,7 @@
+imcompatibilité TamperMonkey + risibank
+
+Mettre le script sur https://jvscript.io ?
+
+Ne marche pas sur m.jeuxvideo.com
+
+Rajouter un logo OP à la place de la couleur background

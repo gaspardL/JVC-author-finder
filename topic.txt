@@ -1,0 +1,52 @@
+http://www.jeuxvideo.com/forums/42-51-55202595-7-0-1-0-extension-chrome-firefox-jvc-author-finder.htm
+
+[EXTENSION CHROME/FIREFOX] JVC author finder
+
+Salut les kheys
+
+ :pacg: '''G PAS LU'''  :pacd: 
+Je me suis chauffé pour faire une extension chrome http://image.noelshack.com/fichiers/2017/19/1494343590-risitas2vz-z-3x.png
+Pour l'instant elle permet que de mettre en évidence les posts de l'auteur d'un topic comme sur cet exemple : 
+http://www.noelshack.com/2018-06-7-1518370543-2db382b3-c204-4a8e-8a8d-9756b11ca8d1.jpg
+Mais il y a une deuxième fonctionnalité que je veux rajouter par la suite : celle de pouvoir jumper directement au prochain post de l'auteur même si il est plusieurs pages plus loin (pratique pour les risitas par exemple, on est pas obligé de se farcir toutes les pages de "sweet")
+Voilà si ça t'interresse tu peux le dl ici : 
+(chrome) https://chrome.google.com/webstore/detail/jvc-author-finder/hoeijbomnhcjbndempnkgfgifdgpjfaj
+(firefox) https://addons.mozilla.org/fr/firefox/addon/jvc-author-finder/
+ :pacg: '''OK <s>TAMER</s> CIMER'''  :pacd: 
+
+ :d) '''T'es qui ?''' :(
+Un bon ghostfag en puissance : 2500 jours, 90 messages :hap: mais ça fait que quelques mois que je suis revenu lire vos conneries et me marrer http://image.noelshack.com/fichiers/2017/10/1489162412-1465686632-jesuus-risitas.gif
+Sinon un Jean-informaticien en école d'ingé
+
+
+ :d) '''C'est quoi cette extension'''
+JVC author finder
+Non, c'est pas un stalk automatique d'auteur http://image.noelshack.com/fichiers/2016/47/1480064732-1467335935-jesus4.png
+C'est pour mettre en évidence les posts de l'auteur d'un topic. Plus besoin de remonter le sujet pour checker le pseudo de l'auteur ça rajoutera juste une couleur dans vos topics http://www.noelshack.com/2018-06-7-1518370543-2db382b3-c204-4a8e-8a8d-9756b11ca8d1.jpg
+La couleur est modifiable dans les options
+
+C'est seulement ça MAIS une autre fonctionnalité principale que j'ajouterai dans les 2 semaines qui viennent : la possibilité d'aller directement au prochain post de l'auteur. C'est à dire que si le son prochain post se trouve 3 pages après celle sur laquelle vous êtes, un simple clic sur l'extension vous amènera directement 3 pages après. Pratique pour les Risitas, "Je répond à vos questions" et beaucoup d'autres ...
+
+ :d) '''Pour qui ?'''
+Pour tout le monde et c'est même (et surtout) utile au non-connectés, newfags, ou ceux qui se connectent que 2h dans la journée, et qui voient poper des topics risitas de 30 pages
+
+Mais c'est seulement disponibles aux utilisateurs de chrome/chromium (et sur PC, je pense pas qu'il y ait des extensions sur mobile) http://image.noelshack.com/fichiers/2017/47/1/1511197017-download9ab047cf-2fstorage-2femulated-2f0-2fdownload-2f52644-full-2-2-2-2-2.png
+<s>Une fois qu'elle sera toute finie et toute belle, je tenterai le portage sur firefox</s>
+UPDATE NEW TOPIC : Non ! c'était pas trop compliquée de la mettre sur firefox en fait, elle est donc disponible sur le renard de feu http://image.noelshack.com/fichiers/2017/01/1483903109-bloggif-5872903951574.gif
+
+ :d) '''Pourquoi ?'''
+Parce que ça me faisait chier d'oublier ou de pas regarder le pseudo de l'auteur, et surtout de passer plusieurs pages de topics risitas avant d'avoir la sweet
+Donc je m'en balek de bider parce que de toute manière c'est utile pour moi http://image.noelshack.com/fichiers/2017/12/1490019868-lachancesilversteinstickers.png
+Mais bon tant qu'à le faire, autant partager
+Et si il bide pas trop, je pourrai utiliser ce topic pour garder informé des prochaines MAJ :pacd: 
+
+:d) '''Où ?'''
+Sur le chrome web store ! https://chrome.google.com/webstore/detail/jvc-author-finder/hoeijbomnhcjbndempnkgfgifdgpjfaj
+Dans les addons mozilla ! https://addons.mozilla.org/fr/firefox/addon/jvc-author-finder/
+
+<spoil>Modo épingle stp :hap:</spoil>
+
+
+chrome : https://chrome.google.com/webstore/detail/jvc-author-finder/hoeijbomnhcjbndempnkgfgifdgpjfaj
+firefox : https://addons.mozilla.org/fr/firefox/addon/jvc-author-finder/
+img avec : http://www.noelshack.com/2018-06-7-1518370543-2db382b3-c204-4a8e-8a8d-9756b11ca8d1.jpg
