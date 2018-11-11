@@ -9,7 +9,7 @@ Elle ne s'active donc seulement sur les différents forums du site.
 Elle permet de mettre en évidence l'auteur d'un topic en modifiant la couleur d'arrière plan de ses posts.
 La couleur d'arrière plan est modifiable dans les options.
 
-Cette extension est diponibles sur les navigateurs Chrome (Chromium) et Firefox
+Cette extension est diponible sur les navigateurs Chrome (Chromium) et Firefox
 
 JE N'AI AUCUN LIEN AVEC L'EQUIPE DE JEUXVIDEO.COM, cette extension n'est distribuée que par pur plaisir de développement et de partage
 
@@ -23,7 +23,7 @@ JE N'AI AUCUN LIEN AVEC L'EQUIPE DE JEUXVIDEO.COM, cette extension n'est distrib
 
 [Cliquez ici](https://addons.mozilla.org/fr/firefox/addon/jvc-author-finder/) pour installer l'extension
 
-[Code source](/chrome/src) de la version Firefox
+[Code source](/firefox/src) de la version Firefox
 
 ## Screenshots
 
